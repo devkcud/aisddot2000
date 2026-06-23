@@ -2,7 +2,7 @@
 
 repository-agnostic instructions for specification driven development assisted by ai agents.
 
-Start here: [full phase-by-phase guide](docs/README.md)
+start here: [full phase-by-phase guide v1](docs/v1/README.md)
 
 ## pipeline
 
