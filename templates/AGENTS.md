@@ -42,4 +42,4 @@ Implementation notes record what changed, what was verified, what could not be v
 - Before implementation, read `implementation-plan.md`, relevant specs and the actual code.
 - During implementation, stay inside the plan, preserve reviewed behavior, follow existing code patterns and avoid unrelated refactors.
 - If implementation reveals a product behavior problem, update the spec or review notes before changing behavior. Always notify user.
-- All artifacts, excluding FD, should be placed under a new directory called `.<fd-number>-<feature>/`
+- All artifacts, excluding FD, should be placed under a new directory called `.fd-<fd-number>-<feature>/`
